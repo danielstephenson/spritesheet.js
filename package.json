@@ -1,6 +1,6 @@
 {
-  "name": "spritesheet-js",
-  "version": "1.2.6",
+  "name": "@faithlife/spritesheet-js",
+  "version": "1.2.7",
   "description": "Spritesheet generator",
   "main": "index.js",
   "directories": {
@@ -68,5 +68,9 @@
   "_shasum": "ba77647a46fa7306851a173ad69f105b3dfbb695",
   "_resolved": "https://registry.npmjs.org/spritesheet-js/-/spritesheet-js-0.7.0.tgz",
   "readme": "README.md",
-  "homepage": "https://github.com/krzysztof-o/spritesheet.js"
+  "homepage": "https://github.com/krzysztof-o/spritesheet.js",
+  "publishConfig": {
+    "tag": "latest",
+    "registry": "http://npm.faithlife.io"
+  }
 }
